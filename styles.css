@@ -55,7 +55,7 @@ iframe {
 
 .Leave:hover {
   color: blueviolet;
-  cursor: url(/images/cursor.png), auto;
+  cursor: url(images/cursor.png), auto;
 }
 
 p {
